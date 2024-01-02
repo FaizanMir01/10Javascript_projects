@@ -3,16 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>FD-calculator</title>
 </head>
 <body>
     <div class="container">
-        <label for="principle">Principle Amount</label>
+        <h1>FD calculator</h1>
+        <div class="form-field">
+            <label for="principle">Principle Amount</label>
         <input type="number" id="principle" placeholder="enter the principle amount">
-        <label for="intrest">Intrest</label>
+        </div>
+        <div class="form-field">
+            <label for="intrest">Intrest</label>
         <input type="number" id="intrest" placeholder="enter the intrest">
-        <label for="Tenure">Principle Amount</label>
+        </div>
+        <div class="form-field">
+            <label for="Tenure">Principle Amount</label>
         <input type="number" id="Tenure" placeholder="enter the Tenure in years">
+        </div>
         <button id="calculate-btn">calculate</button>
         <p id="result">Maturity Amount:</p>
     </div>
