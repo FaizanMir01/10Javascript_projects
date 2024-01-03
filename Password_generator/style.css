@@ -71,21 +71,4 @@ label{
     cursor: pointer;
     text-align: center;
 }
-input[type="checkbox"] {
-    appearance: none;
-  }
-  input[type="checkbox"]:before {
-    content: "";
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    border: 1px solid #ccc;
-    border-radius: 0px;
-    background-color: white;
-  }
-  input[type="checkbox"]:checked:before {
-    background-color: #0044ff;
-  }
-.form_field{
-    display: inline;
-}
+
