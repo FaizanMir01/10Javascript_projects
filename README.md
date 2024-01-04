@@ -8,3 +8,5 @@ This project is a simple Password Generator web application that allows users to
 This project is a simple web application designed to check the number of vowels in a given text. Users can input text into a textarea, click the "Check Vowels" button, and receive the count of vowels in the provided text.
 ## 4. Age Calculator
 This project is a straightforward web-based age calculator that allows users to input their date of birth and obtain their current age. It provides a simple and quick way to determine age without manual calculations.
+## 5. Tip Calculator
+The Tip Calculator is a web application designed to quickly and easily calculate the tip amount based on the bill amount and the specified tip percentage. It aims to simplify the process of determining how much to tip in various dining or service scenarios.
