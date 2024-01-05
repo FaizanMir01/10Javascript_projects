@@ -10,3 +10,5 @@ This project is a simple web application designed to check the number of vowels 
 This project is a straightforward web-based age calculator that allows users to input their date of birth and obtain their current age. It provides a simple and quick way to determine age without manual calculations.
 ## 5. Tip Calculator
 The Tip Calculator is a web application designed to quickly and easily calculate the tip amount based on the bill amount and the specified tip percentage. It aims to simplify the process of determining how much to tip in various dining or service scenarios.
+## 5. ToDo Application
+The Todo App is a simple web application for managing tasks. Users can add new tasks, mark them as completed, and remove them from the list.
