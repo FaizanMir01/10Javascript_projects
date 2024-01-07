@@ -1,5 +1,6 @@
 # 10Javascript_projects
 ### Projects are created using HTML CSS JAVASCRIPT for beginners in web Development
+####  The primary focus lies on JavaScript functionality, minimal attention has been given to the CSS styling, allowing beginners to concentrate on the core JavaScript concepts.
 
 ## 1. FD calculator
 This project is a simple Fixed Deposit (FD) calculator designed for quick and straightforward calculations of maturity amounts.
@@ -15,3 +16,5 @@ The Tip Calculator is a web application designed to quickly and easily calculate
 The Todo App is a simple web application for managing tasks. Users can add new tasks, mark them as completed, and remove them from the list.
 ## 6. Digital Clock
 The Digital Clock project is a simple and elegant web application that displays the current time in a digital format.
+## 6. ScrollBar Indicator
+This project provides a sleek and intuitive visual indicator that gives users a clear sense of their position within a scrollable area.
