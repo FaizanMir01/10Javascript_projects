@@ -18,3 +18,5 @@ The Todo App is a simple web application for managing tasks. Users can add new t
 The Digital Clock project is a simple and elegant web application that displays the current time in a digital format.
 ## 7. ScrollBar Indicator
 This project provides a sleek and intuitive visual indicator that gives users a clear sense of their position within a scrollable area.
+## 8. Captcha generator
+minimalist captcha generator project using HTML, CSS, and JavaScript
