@@ -19,4 +19,6 @@ The Digital Clock project is a simple and elegant web application that displays 
 ## 8. ScrollBar Indicator
 This project provides a sleek and intuitive visual indicator that gives users a clear sense of their position within a scrollable area.
 ## 9. Captcha generator
-minimalist captcha generator project using HTML, CSS, and JavaScript
+Minimalist captcha generator project using HTML, CSS, and JavaScript
+## 10. Tabs preview
+A simple and stylish tabs preview project built with HTML, CSS, and JavaScript.
